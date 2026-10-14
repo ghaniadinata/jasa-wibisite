@@ -1,0 +1,6 @@
+{
+  "name": "WebCraft DevOps",
+  "description": "Platform manajemen jasa pembuatan website dengan orkestrator Docker, auto-deployment, monitoring container real-time, dan portal klien terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
